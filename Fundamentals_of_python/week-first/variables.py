@@ -1,4 +1,4 @@
-# Variables - > storagge or aplace where we store data
+# Variables - > storagge or a place where we store data
 # It is more location to store data
 # it is container
 
