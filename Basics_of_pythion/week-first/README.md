@@ -18,8 +18,6 @@
 
 # WEEK_Second
 
-
 # WEEK_Third
-
 
 # WEEK_Fourth
