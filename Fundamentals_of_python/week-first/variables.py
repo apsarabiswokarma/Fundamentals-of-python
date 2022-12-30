@@ -21,6 +21,7 @@ print('exponentional: ', exponential)
 first_name = 'Apsara'
 last_name = 'Bishwokarma'
 age = 20
+birth_place = 'Thasang'
 country = 'Nepal'
 city = 'kathmandu'
 current_year = 2022
