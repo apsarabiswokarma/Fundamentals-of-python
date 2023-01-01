@@ -1,4 +1,4 @@
-# Variables - > storagge or aplace where we store data
+# Variables - > storagge or a place where we store data
 # It is more location to store data
 # it is container
 
@@ -21,6 +21,7 @@ print('exponentional: ', exponential)
 first_name = 'Apsara'
 last_name = 'Bishwokarma'
 age = 20
+birth_place = 'Thasang'
 country = 'Nepal'
 city = 'kathmandu'
 current_year = 2022

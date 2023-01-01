@@ -1,6 +1,6 @@
 # to get an output from python you need to use a print() function
 print('Lets see how print works')
-print('first', 'second', 'whatever', 2021, 250,
+print('first', 'second', 'whatever', 2022, 20,
       True, False, ['Papaya', 'Mango', 'Avocado'])
 # python has many builtin functions example print(), len(), input(), round, etc
 print('I love the print function')
@@ -60,7 +60,8 @@ print(list(range(1, 10, 2)))
 print(id(1))
 print(dir('python'))
 print(1)
-print(2021)
+print(2022)
+print(30dec)
 print(1 + 2)
 print(2 - 1)
 print(2 * 3)
