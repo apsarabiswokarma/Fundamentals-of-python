@@ -90,6 +90,12 @@ greet("Mary")   # Hello, Mary!
 
 # WEEK_Second
 
+
+Operators
+Arithmetic Operators
+Comparison Operators
+Logical Operators
+
 ```python
 Operators: Python has various operators for performing arithmetic, comparison, and logical operations. Some common operators include + (addition), - (subtraction), * (multiplication), / (division), % (modulus), == (equal to), and != (not equal to).
 
